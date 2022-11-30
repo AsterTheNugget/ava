@@ -35,6 +35,6 @@ function sub (a, b) {
 
 
 test('sub of 2 numbers', t => {
-  t.is(sub(1, 2), -1);
+  t.is(sub(1, 2), 3);
 })
 
